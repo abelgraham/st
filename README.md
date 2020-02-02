@@ -1,3 +1,0 @@
-# st
-
-simple terminal
